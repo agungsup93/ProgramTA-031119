@@ -1,0 +1,17 @@
+*{margin:0px auto;}
+#container{
+    position:relative;
+}
+ 
+#header{
+    background:#0cf;
+    padding:10px;
+}
+#content{
+    padding:10px;
+}
+#footer{
+    height:100%;
+    line-height:50px;
+    color:#0f0f0f;
+}
